@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button {
+  @apply flex items-center justify-center rounded-[12px] w-[150px] h-[52px];
+  @apply bg-header text-white
+}
