@@ -79,7 +79,7 @@ export default function Auth() {
               onClick={signin}
               className='mt-3 w-full'
             >
-              Sign in with email
+              Log in with email
             </button>
             <p className='text-center my-5 text-[#636363]'>
               By clicking “Create your account with Google, you agree <br /> to My Wines <b>TOS</b> and <b>Privacy Policy</b>.
